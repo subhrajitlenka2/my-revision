@@ -13,9 +13,9 @@
 
 n = int(input("enter size of a list :"))
 list = []
-
+print(list)
 for i in range(n):
-    num = int(input())
+    num = int(input()
     list.append(num)
 print(list)
 
